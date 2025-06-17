@@ -1,4 +1,4 @@
-# 🔬 CRISPR-Driven Discovery of TMZ Sensitivity Mechanisms in Glioblastoma
+# CRISPR-Driven Discovery of TMZ Sensitivity Mechanisms in Glioblastoma
 
 This project analyzes genome-wide CRISPR knockout screens across glioblastoma cell lines to identify genes involved in sensitivity or resistance to **Temozolomide (TMZ)**. Using functional enrichment, pathway profiling, and co-dependency analysis, we uncover key biological processes and gene targets relevant to drug response.
 
