@@ -30,12 +30,3 @@ This project analyzes genome-wide CRISPR knockout screens across glioblastoma ce
 4. Highlight known **DNA repair genes** and **druggable targets**.
 5. Visualize key results with **volcano plots**, **heatmaps**, and **ridgeplots**.
 
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/crispr-tmz-gbm.git
-cd crispr-tmz-gbm
