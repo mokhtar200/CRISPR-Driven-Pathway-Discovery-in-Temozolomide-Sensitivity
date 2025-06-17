@@ -8,8 +8,8 @@ This project analyzes genome-wide CRISPR knockout screens across glioblastoma ce
 
 - `scripts/`: R scripts for loading, preprocessing, and analysis
 - `data/`: CRISPR screen data: mmc4.xlsx
-- `figures/`: Plots (volcano, heatmap, GSEA, etc.)
-- `results/`: CSV files for hits, enrichment results, etc.
+- `figures/`: Plots
+- `results/`: CSV files for hits, enrichment results
 
 ---
 
