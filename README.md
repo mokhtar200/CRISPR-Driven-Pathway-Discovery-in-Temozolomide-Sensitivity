@@ -4,15 +4,6 @@ This project analyzes genome-wide CRISPR knockout screens across glioblastoma ce
 
 ---
 
-## Contents
-
-- `scripts/`: R scripts for loading, preprocessing, and analysis
-- `data/`: CRISPR screen data: mmc4.xlsx
-- `figures/`: Plots
-- `results/`: CSV files for hits, enrichment results
-
----
-
 ## Dataset
 
 - CRISPR knockout Z-scores for 3 GBM cell lines: **G361, G510, G523**
